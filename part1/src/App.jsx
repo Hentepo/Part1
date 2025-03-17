@@ -15,6 +15,7 @@ const Part = (props) => {
 }; 
 
 
+
 const Content = (props) => {
   return (
     <div>
@@ -24,6 +25,8 @@ const Content = (props) => {
     </div>
   );
 };
+
+
 
 const Total = (props) => {
   return (
